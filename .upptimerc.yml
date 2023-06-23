@@ -19,6 +19,18 @@ status-website:
       href: https://ecsistem.github.io/bela-tagarela-status/
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+      
+  footer:
+  links:
+    - title: Sobre
+      href: https://belatagarela.com.br/
+    - title: Contato
+      href: https://belatagarela.com.br/
+    - title: Autor
+      href: https://instagram.com/ofc_edson_costa
+    - title: GitHub
+      href: https://github.com/$OWNER/$REPO
+  theme: dark # You can set the footer theme to "light" or "dark"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
