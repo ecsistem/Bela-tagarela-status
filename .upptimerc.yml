@@ -5,6 +5,7 @@ repo: bela-tagarela-status # The name of this repository
 sites:
   - name: Belatagarela
     url: https://belatagarela.com.br
+    interval: 1m # Check site every 1 minute
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
