@@ -1,6 +1,6 @@
 # Change these first
 owner: ecsistem # Your GitHub organization or username, where this repository lives
-repo: bela-tagarela-statu # The name of this repository
+repo: bela-tagarela-status # The name of this repository
 
 sites:
   - name: Belatagarela
