@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/belatagarela.com.br.ico",
     "slug": "belatagarela",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.03%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 393,
     "timeDay": 479,
     "timeWeek": 332,
     "timeMonth": 568,
     "timeYear": 393,
     "dailyMinutesDown": {
-      "2023-09-16": 0
+      "2023-09-16": 14
     }
   }
 ]
