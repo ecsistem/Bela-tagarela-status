@@ -6,17 +6,17 @@
     "slug": "belatagarela",
     "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "97.09%",
-    "uptimeWeek": "98.95%",
-    "uptimeMonth": "99.76%",
+    "uptimeDay": "97.73%",
+    "uptimeWeek": "99.04%",
+    "uptimeMonth": "99.78%",
     "uptimeYear": "99.92%",
-    "time": 497,
-    "timeDay": 821,
-    "timeWeek": 974,
-    "timeMonth": 794,
-    "timeYear": 497,
+    "time": 530,
+    "timeDay": 1193,
+    "timeWeek": 1126,
+    "timeMonth": 869,
+    "timeYear": 530,
     "dailyMinutesDown": {
-      "2023-09-19": 41,
+      "2023-09-19": 32,
       "2023-09-16": 64
     }
   }
